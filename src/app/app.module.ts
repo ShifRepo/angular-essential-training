@@ -12,8 +12,7 @@ import { MediaItemComponent } from './media-item.component';
         MediaItemComponent
     ],
     bootstrap:[
-        AppComponent,
-        MediaItemComponent
+        AppComponent
     ]
 })
 
